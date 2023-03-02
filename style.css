@@ -1,35 +1,20 @@
 :root {
-  font-family: "Roboto", sans-serif;
-
-  /* link-light-bg phone-line__link */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
   --text-link9: #0066cc;
-  /* link-dark-bg */
   --text-link8: #2997ff;
-  /* title-dark-bg subtitle-dark-bg */
   --text-light9: #f5f5f7;
-  /* title-light-bg subtitle-light-bg
-    special-discount index__title*/
   --text-title: #1d1c1f;
-  /* index__link terms-and-conditions-link legal__link */
   --text-footer9: #424245;
-  /* terms-and-conditions phone-line__text */
   --text-footer8: #6e6e73;
-  /* navbar-item  */
   --text-navbar9: #ffffffcc;
 
-  /* 12px */
   --fontsize-xs: 0.75rem;
-  /* 14px */
   --fontsize-s: 0.875rem;
-  /* 21px */
   --fontsize-m: 1.3125rem;
-  /* 28px */
   --fontsize-l: 1.75rem;
-  /* 40px */
   --fontsize-xl: 2.5rem;
-  /* 48px */
   --fontsize-xxl: 3rem;
-  /* 56px */
   --fontsize-xxxl: 3.5rem;
 
   --bg-navbar: #434344;
